@@ -22,7 +22,7 @@ For JSON Output
 ====================
 
 <pre><code>
-/**get output by XMl **/
+/**get output by JSON **/
 $scanFolder->getimageList("json");
 
 </pre></code>
