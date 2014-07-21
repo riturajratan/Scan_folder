@@ -11,5 +11,8 @@ $scanFolder->_setFolder("Images");
 $scanFolder->getimageList("xml");
 
 
+/**get output by JSON **/
+$scanFolder->getimageList("json");
+
 
 
